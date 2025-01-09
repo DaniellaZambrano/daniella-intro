@@ -1,0 +1,17 @@
+{
+  "name": "daniella-intro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "url": "https://github.com/DaniellaZambrano/daniella-intro",
+    "type": "git"
+  },
+  "bin": "./index.js",
+  "description": "My Introduction Card",
+  "type": "module"
+}
